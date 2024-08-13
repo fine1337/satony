@@ -39,6 +39,9 @@
 **2. Создано при поддержке... - flines**
 **Контакт - ...**
 
+# ВАЖНО
+**ДЛЯ ПОИСКА ПО IP ВАМ НУЖЕН БУДЕТ NMAP скачать его можно будет на официальном сайте nmap.org и добавить его путь в PATH за частую это делает сам nmap после установки но стоит убедиться то что путь есть в PATH**
+
 # SATONY [EN/Windows]
 **Our project contains Tools that will help you in various experiments, our tool provides the opportunity to reveal yourself in this regard, there are many different unusual options that will help you in developing in the field**
 # Installation [EN/Windows]
@@ -79,3 +82,4 @@
 **Contact - culturing Discord @ragotn Telegram**
 **2. Powered by... - flines**
 **Contact - ...**
+
